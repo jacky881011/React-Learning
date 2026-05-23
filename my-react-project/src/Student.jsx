@@ -1,6 +1,9 @@
 import PropTypes from 'prop-types'
 // use props to pass data and be js project
 // if is boolean use operator 
+// props = read-only properties that are shared between components,
+// a parent compenent can send data to a child component.
+// <Componet key = value />
 function Student(props){
     return(
         <div className = "student">
