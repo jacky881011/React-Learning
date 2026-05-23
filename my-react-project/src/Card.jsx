@@ -4,9 +4,9 @@ function Card(){
     return(
         // 200 x 200 pixels
         <div className="card">
-            <img src={profilePic} alt="Err:profile picture" style={{ width: "150px", height: "150px" }} />
-            <h2>Card code</h2>
-            <p>Test how to create card</p>
+            <img className="card-image" src={profilePic} alt="Err:profile picture" style={{ width: "150px", height: "150px" }} />
+            <h2 className="card-title">Card code</h2>
+            <p className="card-description">Test how to create card</p>
         </div>
     )
 
