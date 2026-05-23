@@ -7,6 +7,7 @@ function App() {
       <Student name="Bob" age = {20} isStudent= {true}/>
       <Student name="Alisa" age = {12} isStudent= {true}/>
       <Student name="Alisa" age = {58} isStudent= {false}/>
+      <Student name = "Larry" />
     </>
   )
 }

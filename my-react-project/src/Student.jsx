@@ -12,10 +12,17 @@ function Student(props){
 
 }
 
+// then if input props type is incorrect, it will report an error in the console, which is very helpful for debugging
 Student.propTypes = {
     name: PropTypes.string,
     age: PropTypes.number,
-    isStudent: PropTypes.bool
+    isStudent: PropTypes.bool,
+}
+
+Student.defaultProps = {
+    name: "Unknown",  
+    age: 2,
+    isStudent: false,
 }
 
 export default Student;
