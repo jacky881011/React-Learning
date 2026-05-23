@@ -23,3 +23,19 @@ UserGreeting.defaultProps = {
 }
 
 export default UserGreeting;
+
+
+
+
+// App.jsx
+// import UserGreeting from "./UserGreeting"
+// function App() {
+//   return(
+//     <>
+//      <UserGreeting isLogged = {true} userName = "Ming" />
+//      <UserGreeting />
+//     </>
+//   )
+// }
+
+// export default App
