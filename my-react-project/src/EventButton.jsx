@@ -1,5 +1,4 @@
 
-import heroPicture from "./assets/hero.png";
 
 function EventButton() {
     // const handleClick = () => console.log("Ouch! You clicked me!");

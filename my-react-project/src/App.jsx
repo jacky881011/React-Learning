@@ -1,12 +1,10 @@
 // import Button from "./Button/Button";
-import EventButton  from "./EventButton"
-import ProfilePicture from "./ProfilePicture"
+import Hooks from "./Hooks"
 function App() {
 
   return(
     <>
-     <EventButton />
-     <ProfilePicture />
+     <Hooks />
     </>
   )
 }
