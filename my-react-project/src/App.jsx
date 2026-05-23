@@ -1,10 +1,10 @@
 // import Button from "./Button/Button";
-import Hooks from "./Hooks"
+import Counter from "./Counter"
 function App() {
 
   return(
     <>
-     <Hooks />
+     <Counter />
     </>
   )
 }
