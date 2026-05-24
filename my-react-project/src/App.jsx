@@ -1,11 +1,9 @@
-import UpdateArrays from "./UpdateArrays";
-
-
+import UpdateArrayObj from "./UpdateArrayObj"
 function App() {
 
   return(
     <>
-     <UpdateArrays />
+     <UpdateArrayObj />
     </>
   )
 }
