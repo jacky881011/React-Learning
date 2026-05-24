@@ -1,10 +1,10 @@
-import Updater from "./Updater";
+import UseStateValue from "./UseStateValue";
 
 function App() {
 
   return(
     <>
-     <Updater />
+     <UseStateValue />
     </>
   )
 }
