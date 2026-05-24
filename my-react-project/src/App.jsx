@@ -1,10 +1,11 @@
-import UseStateValue from "./UseStateValue";
+import UpdateArrays from "./UpdateArrays";
+
 
 function App() {
 
   return(
     <>
-     <UseStateValue />
+     <UpdateArrays />
     </>
   )
 }
