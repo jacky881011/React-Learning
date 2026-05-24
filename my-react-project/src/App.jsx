@@ -1,10 +1,10 @@
 // import Button from "./Button/Button";
-import Counter from "./Counter"
+import OnChangeHooks from "./OnChangeHooks"
 function App() {
 
   return(
     <>
-     <Counter />
+     <OnChangeHooks />
     </>
   )
 }
