@@ -1,10 +1,10 @@
 
-import UseEffectFunc from "./UseEffectFunc"
+import UseEffectFunc2 from "./UseEffectFunc2"
 function App() {
 
   return(
     <>
-     <UseEffectFunc />
+     <UseEffectFunc2 />
     </>
   )
 }
