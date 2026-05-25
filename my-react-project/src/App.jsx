@@ -1,9 +1,9 @@
-import UpdateArrayObj from "./UpdateArrayObj"
+import ToDoList from "./ToDoList"
 function App() {
 
   return(
     <>
-     <UpdateArrayObj />
+     <ToDoList />
     </>
   )
 }
