@@ -1,11 +1,10 @@
 
-import UseRefFunc from "./UseRefFunc"
-
+import StopWatch from "./StopWatch"
 function App() {
 
   return(
     <>
-     <UseRefFunc/>
+     <StopWatch/>
     </>
   )
 }
